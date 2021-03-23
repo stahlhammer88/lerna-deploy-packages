@@ -1,6 +1,6 @@
 {
   "name": "@mzuccaroli/package_1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "mzuccaroli <marcozuccaroli@gmail.com>",
   "homepage": "https://github.com/mzuccaroli/lerna-deploy-packages#readme",
@@ -25,6 +25,6 @@
     "url": "https://github.com/mzuccaroli/lerna-deploy-packages/issues"
   },
   "devDependencies": {
-    "@mzuccaroli/package_2": "1.0.0"
+    "@mzuccaroli/package_2": "^1.0.1"
   }
 }
